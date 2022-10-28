@@ -12,4 +12,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
 
-Updating the readme file after getting setup. Trying to get @vanessa-cooper to see this.!52454456
+Follow the instructions. Should work.
